@@ -2,64 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://xuhaowork.github.io/post/</loc>
     <lastmod>2024-11-25T14:38:59+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/excel/</loc>
+    <loc>https://xuhaowork.github.io/post/tech/programming/python/</loc>
     <lastmod>2024-11-25T14:38:59+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pandas/</loc>
+    <loc>https://xuhaowork.github.io/</loc>
     <lastmod>2024-11-25T14:38:59+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://xuhaowork.github.io/post/tech/</loc>
     <lastmod>2024-11-25T14:38:59+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>https://xuhaowork.github.io/post/tech/programming/</loc>
     <lastmod>2024-11-25T14:38:59+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/tech/programming/python/</loc>
-    <lastmod>2024-11-25T14:38:59+08:00</lastmod>
+    <loc>https://xuhaowork.github.io/post/tech/nlp/information-extraction/extract-multi-table-in-spreadsheet/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/python%E5%B0%8F%E4%BB%BB%E5%8A%A1/</loc>
-    <lastmod>2024-11-25T14:38:59+08:00</lastmod>
+    <loc>https://xuhaowork.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
-    <lastmod>2024-11-25T14:38:59+08:00</lastmod>
+    <loc>https://xuhaowork.github.io/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-11-25T14:38:59+08:00</lastmod>
+    <loc>https://xuhaowork.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-25T14:38:59+08:00</lastmod>
+    <loc>https://xuhaowork.github.io/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/post/tech/programming/python/using-python-extract-multi-table-in-one-spreadsheet/</loc>
-    <lastmod>2024-11-25T14:38:59+08:00</lastmod>
+    <loc>https://xuhaowork.github.io/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/%E7%BC%96%E7%A8%8B/python/</loc>
-    <lastmod>2024-11-25T14:38:59+08:00</lastmod>
+    <loc>https://xuhaowork.github.io/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/post/tech/</loc>
-    <lastmod>2024-11-25T14:38:59+08:00</lastmod>
+    <loc>https://xuhaowork.github.io/topic/</loc>
   </url><url>
-    <loc>http://localhost:1313/post/tech/programming/</loc>
-    <lastmod>2024-11-25T14:38:59+08:00</lastmod>
+    <loc>https://xuhaowork.github.io/post/tech/nlp/information-extraction/</loc>
   </url><url>
-    <loc>http://localhost:1313/post/tech/nlp/information-extraction/extract-multi-table-in-spreadsheet/</loc>
+    <loc>https://xuhaowork.github.io/post/tech/data-analysis/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://xuhaowork.github.io/post/tech/ml/</loc>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
-  </url><url>
-    <loc>http://localhost:1313/search/</loc>
-  </url><url>
-    <loc>http://localhost:1313/topic/</loc>
-  </url><url>
-    <loc>http://localhost:1313/post/tech/nlp/information-extraction/</loc>
-  </url><url>
-    <loc>http://localhost:1313/post/tech/data-analysis/</loc>
-  </url><url>
-    <loc>http://localhost:1313/post/tech/ml/</loc>
-  </url><url>
-    <loc>http://localhost:1313/post/tech/nlp/</loc>
+    <loc>https://xuhaowork.github.io/post/tech/nlp/</loc>
   </url>
 </urlset>
